@@ -980,7 +980,7 @@
     (property "ki_keywords" "32-bit ARM Cortex-M0+ MCU Microcontroller")
     (path "/6a487378-0b0b-458a-92fb-f92870c55c40")
     (attr smd)
-    (fp_text reference "U1" (at 6.4 -4.7) (layer "F.SilkS")
+    (fp_text reference "U1" (at 4.9 4.45) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 125a8d2e-a431-4a65-867a-0436c8ea5549)
     )
@@ -4742,6 +4742,9 @@
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "Off" (at 61.25 68.75) (layer "F.SilkS") (tstamp b0533801-d985-4a74-b19f-f71a10305650)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
+  (gr_text "Phorae v1.0" (at 49.5 93.25) (layer "F.SilkS") (tstamp e140a271-93d2-46b6-8609-3ab28ddf0593)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
 
