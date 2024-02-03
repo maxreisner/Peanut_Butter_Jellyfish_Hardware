@@ -1,0 +1,17 @@
+### Missing 3D models - created on 2024-02-01 22:46
+### Printed by checking_3D_models plugin
+Board file: /Users/maximusreisner/Desktop/Peanut_Butter_Jellyfish_Hardware/pcb/Phorae_v1.0/Phorae_v1.0.kicad_pcb
+3D missing models written to:
+/Users/maximusreisner/Desktop/Peanut_Butter_Jellyfish_Hardware/pcb/Phorae_v1.0/Phorae_v1.0_missing3Dmodels.txt
+-------
+('U4', '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl')
+('J4', '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x10_P2.54mm_Vertical.wrl')
+('U1', '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.wrl')
+('U3', '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.wrl')
+('U2', '${KICAD6_3DMODEL_DIR}/RF_Module.3dshapes/nRF24L01_Breakout.wrl')
+('J1', '${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl')
+('J3', '${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl')
+('J2', '${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_EH_S2B-EH_1x02_P2.50mm_Horizontal.wrl')
+-------
+NUM of 3D missing models:8
+checked extensions ['.stp', '.step', '.stpZ']
