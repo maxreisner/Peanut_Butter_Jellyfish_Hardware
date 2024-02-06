@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U4";"SOT-23-5";1;"AP2112K-3.3";;;
+2;"F1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1000mA";;;
+3;"D15,D2,D13,D6,D8,D11,D16,D4,D3,D1,D10,D12,D9,D7,D14,D5";"WS2812-2020_SMD_MICRO";16;"WS2812B";;;
+4;"R1,R2";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";2;"5.1kΩ ";;;
+5;"J4";"PinHeader_2x10_P2.54mm_Vertical";1;"Conn_02x10_Odd_Even";;;
+6;"C2,C1,C4,C8,C3,C6";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";6;"10µF";;;
+7;"SW1";"SW_DPDT_CK_JS202011JCQN";1;"SW_DPDT_x2";;;
+8;"U1";"TQFP-32_7x7mm_P0.8mm";1;"ATSAMD21E15A-A";;;
+9;"U3";"SOT-23-5";1;"MCP73831-2-OT";;;
+10;"U2";"NRF24L01_SMD";1;"NRF24L01_Breakout";;;
+11;"R3";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"2kΩ ";;;
+12;"J1";"USB_C_Receptacle_GCT_USB4110";1;"USB_C_Receptacle_USB2.0";;;
+13;"C5";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"1µF";;;
+14;"H2,H1";"MountingHole_2.2mm_M2";2;"MountingHole";;;
+15;"J3";"PinHeader_2x05_P2.54mm_Vertical";1;"Conn_02x05_Odd_Even";;;
+16;"J2";"JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal";1;"JST 2 Pin ";;;
