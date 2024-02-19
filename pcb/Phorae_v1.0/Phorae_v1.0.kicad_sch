@@ -2486,6 +2486,13 @@
     (uuid ab5b28a9-5f77-4051-ae06-10bd26d7e767)
   )
 
+  (text_box "PROG AND STAT R SWITCHED\n"
+    (at 17.78 87.63 0) (size 17.145 8.89)
+    (stroke (width 0) (type default))
+    (fill (type color) (color 255 2 0 0.22))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 432c4879-b340-4d97-953a-8d5dce35bf25)
+  )
   (text_box "NO BULK CAPACITANCE YET"
     (at 80.01 115.57 0) (size 17.145 8.89)
     (stroke (width 0) (type default))
