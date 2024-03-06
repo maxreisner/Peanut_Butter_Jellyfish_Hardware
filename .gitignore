@@ -1,1 +1,3 @@
 pcb/Phorae_v1.0/Phorae_v1.0-backups/*
+*.lck
+*.DS_Store
